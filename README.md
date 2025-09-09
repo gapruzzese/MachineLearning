@@ -1,1 +1,3 @@
-# MachineLearning
+# Decoding Decisions: Assessing Immigration Court Decision-Making Through Random Forest Feature Importance 
+
+The purpose of this project is to determine whether certain factors predict immigration court decisions generally as well as in different types of cases, with special attention to assessing the degree of ethics and fairness incorporated into these decisions. Using random forest feature importance calculations on various subsets of Immigration Court data, the analysis herein finds consistent primary relevance of whether or not a case is completed in absentia, as well as the importance of being appointed legal counsel and having filed an asylum application. Combined with a correlation analysis, these findings point to incomplete but potential evidence for bias in immigration proceedings in the United States. 
